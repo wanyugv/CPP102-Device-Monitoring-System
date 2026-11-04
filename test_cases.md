@@ -1,8 +1,9 @@
 # Test Cases – Simulated Device Monitoring and Alert System
 
-**Tested by:** (Villanueva, Uan Gabriel D.)  
-**Date:** November 3, 2026  
-**Program tested:** `u_device_monitor.py` (Python 3, run with `python u_device_monitor.py`)
+Name: Villanueva, Uan Gabriel D. 
+Student Number: 2601415
+Section: 1CPE-B
+Date Tested: November 3, 2026
 
 Initial data for every test: `[28, 31, 35, 37, 29]`. Each test starts a fresh run of the program.
 
